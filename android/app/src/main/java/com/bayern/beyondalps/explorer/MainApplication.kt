@@ -1,4 +1,4 @@
-package com.bayernbeyondalpsexplorer
+package com.bayern.beyondalps.explorer
 
 import android.app.Application
 import com.facebook.react.PackageList

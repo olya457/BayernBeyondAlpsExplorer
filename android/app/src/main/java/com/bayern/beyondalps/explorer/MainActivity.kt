@@ -1,4 +1,4 @@
-package com.bayernbeyondalpsexplorer
+package com.bayern.beyondalps.explorer
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
